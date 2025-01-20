@@ -1,0 +1,118 @@
+---
+title: "Welcome to the 36th meeting of the"
+subtitle: "Zurich R User Group"
+format:
+  revealjs:
+    template-partials:
+      - title-slide.html
+    theme: assets/styles/custom.scss
+    slide-number: true
+    width: 1600
+    height: 900
+    confetti:
+      particleCount: 1000
+      angle: 90
+      spread: 300
+      startVelocity: 35
+      gravity: 0.2
+      drift: 0
+      ticks: 300
+      colors: ['#26ccff', '#a25afd', '#ff5e7e', '#88ff5a', '#fcff42', '#ffa62d', '#ff36ff']
+      scalar: 0.5
+revealjs-plugins:
+  - confetti
+---
+
+
+## Approach Us!
+
+![](assets/images/host1.svg){width=50%}
+
+[zurichrusergroup@gmail.com](style="color:#276DC2;") or via Website!
+
+
+::: {.notes}
+
+:::
+
+
+
+## Who is Us?
+
+::::::{.columns}
+
+:::::{.column width="15%"}
+:::::
+
+:::::{.column width="22%"}
+:::{style="text-align: center"}
+Aurélien
+![](assets/images/team/aurelien.jpg){.preview-image}
+:::
+:::::
+
+:::::{.column width=22%}
+:::{style="text-align: center"}
+Gerlinde
+![](assets/images/team/gerlinde.png){.preview-image}
+:::
+:::::
+
+:::::{.column width=22%}
+:::{style="text-align: center"}
+Matthias
+![](assets/images/team/matt.jpg){.preview-image}
+:::
+:::::
+
+:::::{.column width="15%"}
+:::::
+
+::::::
+
+
+
+
+::::::{.columns}
+
+:::::{.column width="15%"}
+:::::
+
+:::::{.column width="22%"}
+:::{style="text-align: center"}
+Mike
+![](assets/images/team/mike.png){.preview-image}
+:::
+:::::
+
+:::::{.column width=22%}
+:::{style="text-align: center"}
+Minna
+![](assets/images/team/minna.jpg){.preview-image}
+:::
+:::::
+
+:::::{.column width=22%}
+:::{style="text-align: center"}
+Sereina
+![](assets/images/team/sereina.jpg){.preview-image}
+:::
+:::::
+
+:::::{.column width="15%"}
+:::::
+
+::::::
+
+
+## What Else?
+
+- Take the Stage: Pitching jobs ads, ideas, events...
+
+
+- Thank you WSL!
+
+
+## not shown {visibility="hidden"}
+
+{{< fa brands bluesky size=5x >}}

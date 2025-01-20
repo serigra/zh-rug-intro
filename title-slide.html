@@ -1,0 +1,41 @@
+<section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$>
+  <h1 class="title">$title$</h1>
+$if(subtitle)$
+  <p class="subtitle">$subtitle$</p>
+$endif$
+  <div style="display: flex; justify-content: space-around; margin-top: 2em;">
+    <div style="text-align: center;">
+      <img src="assets/images/qr_website.png" alt="Image 1" style="width: 350px; height: auto;">
+      <p style="font-size: 0.8em;">
+        <a href="https://zurich-r-user-group.github.io/" target="_blank">
+          <i class="fa fa-earth" aria-hidden="true"></i> Website
+        </a>
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <img src="assets/images/qr_linkedin.png" alt="Image 2" style="width: 350px; height: auto;">
+      <p style="font-size: 0.8em;">
+        <a href="https://www.linkedin.com/company/zuerich-r-user-group/" target="_blank">
+        <i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn
+         </a>
+      </p>
+    </div>
+    <div style="text-align: center;">
+      <img src="assets/images/qr_bsky.png" alt="Image 3" style="width: 350px; height: auto;">
+      <p style="font-size: 0.8em;">
+         <a href="https://bsky.app/profile/ruserszurich.bsky.social" target="_blank">
+        <i class="fa-brands fa-bluesky" aria-hidden="true"></i> Bluesky
+        </a>
+      </p>
+    </div>
+  </div>
+$for(author)$
+  <p class="author">$author$</p>
+$endfor$
+$if(date)$
+  <p class="date">$date$</p>
+$endif$
+</section>
+
+<!-- Include Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

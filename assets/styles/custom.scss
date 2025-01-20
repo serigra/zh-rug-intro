@@ -1,0 +1,46 @@
+
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Bricolage Grotesque", sans-serif !default;
+$headings-font-family: "Bricolage Grotesque", sans-serif !default;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
+.title {
+  font-size: 75px !important;
+  font-weight: 500 !important;
+}
+
+.subtitle {
+  font-size: 100px !important;
+  color: #276DC2;
+}
+
+
+.slides h2, .slides h3 {
+  font-family: $headings-font-family;
+  font-weight: 500;
+}
+
+.reveal {
+  font-family: $font-family-sans-serif;
+}
+
+
+a {
+  color: #276DC2;
+  text-decoration: none;
+}
+
+
+.preview-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-inline: 30px!important;
+}
+
+
