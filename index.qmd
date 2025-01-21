@@ -29,26 +29,44 @@ revealjs-plugins:
 ---
 
 
+## Thank You!
 
-## Approach Us!
+<br><br>
 
-![](assets/images/host1.svg){width=95%}
+::::::{.columns}
 
-[zurichrusergroup@gmail.com](style="color:#276DC2;") or via Website!
+:::::{.column width="10%"}
+:::::
 
-::: {.notes}
-- we are always looking for hosts and people who want to share their work, ideas, packages or shiny apps! 
+:::::{.column width="40%"}
+💙 Muriel Buri
 
-- fantastic opportunity to showcase your company, to meet people, to get feedback from an outside community with different perspectives and potentially high technical knowhow
+<br>
 
-- very kind and well-being community giving constructive and very useful feedback
+💙 Rachel Heyard 
 
-- way of giving back smth to the community
+<br>
 
-- approach us!
-:::
+💙 Dorothea Hug Peter 
+:::::
 
 
+:::::{.column width="40%"}
+🏆 8 years!
+
+<br>
+
+🏆 ~ 40 meetups!
+
+<br>
+
+🏆 > 2000 members!
+:::::
+
+:::::{.column width="10%"}
+:::::
+
+::::::
 
 ## Who is Us?
 
@@ -115,16 +133,54 @@ Sereina
 :::::{.column width="15%"}
 :::::
 
+::: {.notes}
+Very short introduction each, max. 20 seconds, or just waving :)...
+:::
+
 ::::::
 
 
-## What Else?
+## Approach Us!
 
-- Take the Stage: Pitching jobs ads, ideas, events...
+![](assets/images/host1.svg){width=95%}
+
+[zurichrusergroup@gmail.com](style="color:#276DC2;") or via Website!
+
+::: {.notes}
+- we are always looking for hosts and people who want to share their work, ideas, packages or shiny apps! 
+
+- fantastic opportunity to showcase your company, to meet people, to get feedback from an outside community with different perspectives and potentially high technical knowhow
+
+- very kind and well-being community giving constructive and very useful feedback
+
+- way of giving back smth to the community
+
+- approach us!
+:::
 
 
-- Thank you WSL!
 
+## Today's Agenda
+
+
+<br><br>
+
+
+[6.30](style="color:#276DC2;") Introduction / Welcome by the organizing team
+
+[6.45](style="color:#276DC2;") Introduction by WSL
+
+[6.50](style="color:#276DC2;") Talks (Volodymyr Trotsiuk, Dominique Weber)
+
+[7.50](style="color:#276DC2;") Take the Stage: Pitching job ads, ideas, events, ...
+
+[8.00-9.00](style="color:#276DC2;") Apéro 🍻 🎉 💫
+
+<br>
+
+[Thank you WSL!]{.large-text}
+
+[Thank you R Consortium!]{.large-text}
 
 ## not shown {visibility="hidden"}
 
