@@ -170,7 +170,7 @@ Very short introduction each, max. 20 seconds, or just waving :)...
 
 [6.45](style="color:#276DC2;") Introduction by WSL
 
-[6.50](style="color:#276DC2;") Talks (Volodymyr Trotsiuk, Dominique Weber)
+[6.50](style="color:#276DC2;") Intro & Talks (Volodymyr Trotsiuk, Dominique Weber, Micah Wilhelm)
 
 [7.50](style="color:#276DC2;") Take the Stage: Pitching job ads, ideas, events, ...
 
